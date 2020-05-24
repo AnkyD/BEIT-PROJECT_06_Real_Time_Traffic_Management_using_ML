@@ -26,6 +26,6 @@ Our aim is to design and develop a miniature to depict the current road situatio
 
 # Note :
 
-Yolo-Coco Weights File is Not Attached from this folder.
+Yolo-Coco Weights File is Not Attached with this folder.
 
 But This Weights file is important to run this Project.
