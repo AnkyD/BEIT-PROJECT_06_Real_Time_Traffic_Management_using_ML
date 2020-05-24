@@ -23,3 +23,9 @@ There are many projects emerging in order to convert the current transport syste
 <p align="justify">
 Our aim is to design and develop a miniature to depict the current road situation along with monitoring and handling the traffic issues. Hence to proceed with this project we are using a pretrained model YOLO to perform the task of object detection. The pretrained model YOLO uses OpenCV for object detection along with multiple foreground and background subtraction and removal of noise from the input image. The CCTV cameras that are being used for surveillance purpose can be made use to capturing the footage of the road, this image will be passed to the pretrained model as input image. To do so each side of the road will be divided into particular frames of same height and width for capturing the image. The count obtained from the image is the fed to the Raspberry board. As per the count obtained, switching time will be assigned for each side of road. The program will initially check if the count of vehicle in all frame is approximately same then the switching will remain at its predefined regular interval for all sides of signal, the real-time switching for the signal will be performed if the count of vehicles in all frames varies as threshold difference which be provided.
 </p>
+
+# Note :
+
+Yolo-Coco Weights File is Not Attached from this folder.
+
+But This Weights file is important to run this Project.
