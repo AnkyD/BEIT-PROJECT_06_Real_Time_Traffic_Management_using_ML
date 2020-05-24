@@ -29,3 +29,7 @@ Our aim is to design and develop a miniature to depict the current road situatio
 Yolo-Coco Weights File is Not Attached with this folder.
 
 But This Weights file is important to run this Project.
+
+You can Download Weights File from  below link
+
+<a href="https://pjreddie.com/media/files/yolov3.weights">
